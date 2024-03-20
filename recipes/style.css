@@ -1,0 +1,22 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: bisque;
+}
+
+
+img{
+    width: auto;
+    height: 400px;
+}
+
+h3{
+    background-color: brown;
+    color: white;
+}
+.fontred{
+    color: darkred;
+}
+
+h1{
+    color: brown;
+}
